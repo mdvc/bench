@@ -1,0 +1,1 @@
+Blog demo application with basic functionality
